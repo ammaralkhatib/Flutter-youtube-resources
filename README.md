@@ -2,4 +2,5 @@
 
 ## Project 01 : Fikra
 
-* [Fikra Completed Project] (https://github.com/ammaralkhatib/Flutter-youtube-resources)
+* [Fikra Completed Project](https://github.com/ammaralkhatib/Flutter-youtube-resources)
+
