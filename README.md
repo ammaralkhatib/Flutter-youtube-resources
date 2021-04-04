@@ -28,5 +28,6 @@
 * [Ekhtibar App Starting Files](https://github.com/ammaralkhatib/ekhtibar_app_starting)
 * [Ekhtibar App Final Files](https://github.com/ammaralkhatib/ekhtibar_app_final)
 
+## Project 06 : Electrical Store App
 
-
+* [Electrical Store App Files](https://github.com/ammaralkhatib/electrical_store_app)
