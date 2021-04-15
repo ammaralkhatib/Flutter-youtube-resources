@@ -22,7 +22,6 @@
 * [Naghamat App sounds](https://github.com/ammaralkhatib/naghamat_app_starting/tree/master/assets)
 * [Naghamat App Final Files](https://github.com/ammaralkhatib/naghamat_app_final)
 
-
 ## Project 05 : Ekhtibar App
 
 * [Ekhtibar App Starting Files](https://github.com/ammaralkhatib/ekhtibar_app_starting)
@@ -31,3 +30,7 @@
 ## Project 06 : Electrical Store App
 
 * [Electrical Store App Files](https://github.com/ammaralkhatib/electrical_store_app)
+
+## Project 07 : Traveling App
+
+* [Traveling App Starting Files](https://github.com/ammaralkhatib/traveling_app)
