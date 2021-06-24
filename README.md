@@ -34,3 +34,5 @@
 ## Project 07 : Traveling App
 
 * [Traveling App Starting Files](https://github.com/ammaralkhatib/traveling_app)
+* [Traveling App - Video 59 - TabBar](https://github.com/ammaralkhatib/traveling_app_video_59)
+
