@@ -37,3 +37,11 @@
 * [Traveling App - Video 59 - TabBar](https://github.com/ammaralkhatib/traveling_app_video_59)
 * [Traveling App - Video 63 - Passing data](https://github.com/ammaralkhatib/traveling_app_video_63)
 * [Traveling App - Video 65 - Final](https://github.com/ammaralkhatib/traveling_app_final)
+
+## Project 08 : Real estate App with web
+
+* [Real estate app with web files](https://github.com/ammaralkhatib/real_estate_web)
+
+## Project 09 : Chat App with Firebase
+
+* [Chat App with Firebase Starting Files](https://github.com/ammaralkhatib/messageme_app_Starting_files)
