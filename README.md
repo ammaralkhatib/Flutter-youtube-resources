@@ -45,3 +45,5 @@
 ## Project 09 : Chat App with Firebase
 
 * [Chat App with Firebase Starting Files](https://github.com/ammaralkhatib/messageme_app_Starting_files)
+* [Chat App after adding the spinner - Video #74](https://github.com/ammaralkhatib/messageme_app_adding_spinner)
+
